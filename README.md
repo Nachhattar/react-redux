@@ -1,2 +1,1 @@
-# react-redux
-React &amp; Redux
+Frontend for the medical application
